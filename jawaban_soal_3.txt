@@ -1,0 +1,2 @@
+it pull adalah suatu cara untuk menarik perubahan yang ada di repository github untuk ditarik ke file repo lokal 
+Git fork adalah suatu cara untuk mengkloning suatu repository orang lain atau diri sendiri tetapi tidak tehubung dengan github sehingga dapat melakukan perubahan tanpa memengaruhi repo aslinya

@@ -1,0 +1,2 @@
+Terjadi error atau conflict saat merging karena adanya dua branch yang mengerjakan baris yang sama dalam satu repository
+cara menanguulanginya yaitu dengan memilih salah satu perubahan yang dilakukan oleh salah satu branch, lalu perubahan tersebut di git add dan git commit lagi agar bisa di merge

@@ -1,0 +1,1 @@
+Git rebase adalah salah satu fitur dari git yang memungkinkan untuk menggabungkan atau mengatur ulang commit base atau history
